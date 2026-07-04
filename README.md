@@ -86,7 +86,7 @@ A análise permitiu identificar que:
 
 <p align="center">
 
-<img src="images/dashboard.PNG" width="900"/>
+<img src="images/dashboard.png" width="900"/>
 
 </p>
 
@@ -96,7 +96,7 @@ A análise permitiu identificar que:
 
 <p align="center">
 
-<img src="images/modelo-relacional.PNG" width="850"/>
+<img src="images/modelo-relacional.png" width="850"/>
 
 </p>
 
