@@ -96,7 +96,7 @@ A análise permitiu identificar que:
 
 <p align="center">
 
-<img src="images/modelo-relacional.png" width="850"/>
+<img src="images/modelo-relacional-1.png" width="850"/>
 
 </p>
 
